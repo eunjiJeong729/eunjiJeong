@@ -1,4 +1,10 @@
 RCNN&VGG를 활용한 이상탐지 구현에 관한 code
+# 해당 코드는 기존 코드를 일부 수정하여 구현한 것임
 
-아래 링크를 참조 바랍니다
+run은 링크를 참조 바랍니다
 https://colab.research.google.com/drive/1hM46cYiHpIRzVJGUjLfOI2Y7A73k4mNq?usp=sharing
+
+run 주의사항
+colab에서 실행 시 data 2개가 필요
+Airplanes_Annotations.zip, Images.zip를 drive 계정에 업로드 후 실행
+data source & reference : https://github.com/1297rohit/RCNN
